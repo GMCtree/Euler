@@ -1,3 +1,3 @@
 Euler
 =====
-These are questions from projecteuler.net that I have completed using C.
+These are questions from www.projecteuler.net that I have completed using C, Python and Java.
