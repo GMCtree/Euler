@@ -17,3 +17,5 @@ for x in xrange(1, 500):
 		for z in xrange(1, 500):
 			c = z
 			is_pythagorean_triple(a, b, c)
+			
+
