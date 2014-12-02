@@ -1,11 +1,9 @@
-import math
-
 def check_euler(a, b, c):
 	if (a + b + c == 1000):
 		answer = a * b * c
 		print answer
 
-def is_pythagorean_triple(a, b, c): #this works
+def is_pythagorean_triple(a, b, c):
 	num1 = a ** 2 + b ** 2
 	num2 = c ** 2
 	if (a < b and b < c): #checks for pythagorean triple properties
