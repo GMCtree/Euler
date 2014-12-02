@@ -1,5 +1,3 @@
-import math
-
 def check_euler(a, b, c):
 	if (a + b + c == 1000):
 		answer = a * b * c
@@ -19,3 +17,4 @@ for x in xrange(1, 500):
 		for z in xrange(1, 500):
 			c = z
 			is_pythagorean_triple(a, b, c)
+			
